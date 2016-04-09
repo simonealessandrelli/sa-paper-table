@@ -1,0 +1,27 @@
+{
+  "name": "sa-paper-table",
+  "version": "0.0.1",
+  "authors": [
+    "Simone Alessandrelli <simonealessandrelli@gmail.com>"
+  ],
+  "description": "An element providing a responsive table view component",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "seed"
+  ],
+  "main": "sa-paper-table.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/simonealessandrelli/sa-paper-table/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "^4.0.0"
+  }
+}
